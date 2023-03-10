@@ -286,7 +286,7 @@ int main(void)
   //oled
   //SSD1306_Init();
   //SSD1306_InvertDisplay(1);
-  double qq = 15;
+  //double qq = 15;
 
   //hx711
   HAL_TIM_Base_Start(&htim3);
